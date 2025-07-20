@@ -979,7 +979,7 @@ section {
   text-align: center;
   font-size: var(--font-size-3xl);
   margin-bottom: var(--space-32);
-  color: var(--color-navy-800);
+  color: #ffffff;
   position: relative;
 }
 
